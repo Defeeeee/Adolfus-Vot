@@ -1,5 +1,5 @@
 {
-  "name": "Defe-Bot",
+  "name": "adolfus0vot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,13 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.5.3",
-    "express": "^4.17.1",
-    "ms": "^2.1.3",
-    "node-fetch": "^2.6.1",
-    "reconlx": "^1.2.41"
+    "discord.js": "^12.5.3"
   },
   "devDependencies": {
-    "nodemon": "^2.0.7"
+    "nodemon": "^2.0.12"
   }
 }
